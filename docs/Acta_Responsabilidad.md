@@ -1,7 +1,7 @@
 # Acta de Responsabilidad
 
 **Proyecto:** VeteriPet UdeA - Gestor de PQRS  
-**Integrantes:** Nayeli Vergara Mazo & Maximiliano González López  
+**Integrantes:** Nayeli Vergara Mazo y Maximiliano González López  
 
 ## 1. Asignación de Roles y Responsabilidades
 
