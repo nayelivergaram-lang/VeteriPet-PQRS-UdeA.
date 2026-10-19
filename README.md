@@ -20,7 +20,7 @@
 - **Descripción:** Sistema de información de consola desarrollado en Python para la recepción, seguimiento, gestión y generación de estadísticas de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) de atención veterinaria de caninos y felinos para VeteriPet de la Universidad de Antioquia.
 
 <p align="center">
-  <img width="600" alt="Logo VeteriPet UdeA" src="images/logo.png" />
+  <img width="600" alt="Logo VeteriPet UdeA" src="images/logo_VeteriPet.jpg" />
 </p>
 
 ## 4. Licencia del Software
