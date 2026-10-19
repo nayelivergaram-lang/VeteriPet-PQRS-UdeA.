@@ -27,6 +27,8 @@
 
 Este proyecto está registrado bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**, cuyos términos completos se pueden consultar de forma oficial en la plataforma [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
+<a href="https://github.com/nayelivergaram-lang/VeteriPet-PQRS-UdeA./blob/main/README.md">VeteriPet-PQRS-UdeA.</a> © 2026 by <a href="https://ejemplo.com">Nayeli Vergara Mazo y Maximiliano González López</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 El software VeteriPet UdeA - Gestor de PQRS fue desarrollado por Nayeli Vergara Mazo y Maximiliano González López, estudiantes de Ingeniería Industrial de la Universidad de Antioquia, otorgando permisos para compartir y adaptar el material siempre que no sea con fines comerciales y conservando la misma licencia.
 
 ## 5. Reporte de Visión
