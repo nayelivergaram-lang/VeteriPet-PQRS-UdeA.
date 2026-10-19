@@ -53,7 +53,7 @@ Dejar constancia formal de que las integrantes firmantes aceptan la disolución 
 
 | Nombre completo  | Documento  | Firma |
 | :---- | :---- | ----- |
-| Luz Yadira Ramírez Rojas  | 43.908.906 | ![Firma Luz Yadira](../images/firma_luz_yadira.png) width="200" |
+| Luz Yadira Ramírez Rojas  | 43.908.906 | ![Firma Luz Yadira](../images/firma_luz_yadira.png )  |
 | Brianda Isabel Saenz Llorente  | 1.045.508.755 | ![Firma Brianda](../images/firma_brianda.png) |
 | Aura Jhosceline Hurtado Botero  | 1.036.395.089 | ![Firma Aura](../images/firma_aura.png) |
 
