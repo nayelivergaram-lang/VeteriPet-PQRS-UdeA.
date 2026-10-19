@@ -4,6 +4,7 @@
 - **Nayeli Vergara Mazo** (Líder del Proyecto) – Apasionada por la fotografía urbana, la lectura y las caminatas al aire libre. Interesada en la apreciación cultural y el aprendizaje constante.
 - **Maximiliano González López** – Me considero una persona muy alegre. Me gusta demasiado el Baloncesto ya que me permite liberarme y hacerme sentir en paz conmigo mismo. También disfruto ir al gimnasio para despejar la mente.
 <br>
+
 ## 2. Vínculos Académicos y Descripción
 
 - **Nayeli Vergara Mazo**
@@ -13,6 +14,7 @@
 - **Maximiliano González López**
   * **Programa:** Ingeniería Industrial (Universidad de Antioquia)
   * **Habilidades y Fortalezas:** Tengo mucha responsabilidad y la habilidad de aprender muy rápido, en especial sobre programación en Python y lógica de algoritmos. Soy aplicado y estoy dispuesto a aprender cosas nuevas cada día.
+<br>
 
 ## 3. Nombre del Proyecto, Descripción y Logo
 
@@ -22,12 +24,14 @@
 <p align="center">
   <img width="600" alt="Logo VeteriPet UdeA" src="images/logo_VeteriPet.jpg" />
 </p>
+<br>
 
 ## 4. Licencia del Software
 
 <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">
     VeteriPet-PQRS-UdeA. © 2026 de Nayeli Vergara Mazo y Maximiliano González López tiene licencia CC BY-NC-SA 4.0. Para ver una copia de esta licencia, visite https://creativecommons.org/licenses/by-nc-sa/4.0/
 </font></font>
+<br>
 
 ## 5. Reporte de Visión
 
@@ -47,6 +51,7 @@ El sistema permite capturar los datos del usuario solicitante, la información d
 ### Beneficios
 - **Para la Organización (VeteriPet UdeA):** Centralización de la información, eliminación del procesamiento manual a papel y lápiz, control de tiempos de atención y facilidad de mantenimiento del software.
 - **Para los Usuarios:** Proceso de radicación transparente, generación de comprobante impreso en texto ASCII, trazabilidad del caso y respuesta oportuna a sus requerimientos.
+<br>
 
 ## 6. Especificación de Requisitos
 
@@ -74,6 +79,7 @@ El sistema permite capturar los datos del usuario solicitante, la información d
 5. **Comprensión de Listas:** Se deben utilizar mecanismos eficientes de Python como la comprensión de listas para la manipulación y filtrado de datos.
 6. **Documentación y Comentarios:** El código debe contener comentarios explicativos para asegurar mantenibilidad y claridad.
 7. **Integridad de Datos:** La manipulación de archivos planos debe asegurar la no duplicidad de ID y gestionar correctamente los campos opcionales asignando "N/A" cuando corresponda (como en la dirección).
+<br>
 
 ## 7. Plan de Proyecto
 
