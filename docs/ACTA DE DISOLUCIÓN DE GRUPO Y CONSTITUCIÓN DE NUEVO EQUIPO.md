@@ -42,7 +42,7 @@ Dejar constancia formal de la disolución del equipo de trabajo inicial del proy
 | Nombre Completo  | Firma |
 | :---- | ----- |
 | **Nayeli Vergara Mazo** | <img src="../images/Nayeli.png" width="120"> |
-| **Maximiliano González López** | <img src="../images/Nayeli.png" width="120">  |
+| **Maximiliano González López** | <img src="../images/Maximiliano.png" width="120">  |
 
 **Estado:** *Aprobado y autorizado por el docente del curso.*
 
