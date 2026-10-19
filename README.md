@@ -1,5 +1,5 @@
 # VeteriPet-PQRS-UdeA.
-
+<br>
 ## 1. Integrantes
 - **Nayeli Vergara Mazo** (Líder del Proyecto) – Apasionada por la fotografía urbana, la lectura y las caminatas al aire libre. Interesada en la apreciación cultural y el aprendizaje constante.
 - **Maximiliano González López** – Me considero una persona muy alegre. Me gusta demasiado el Baloncesto ya que me permite liberarme y hacerme sentir en paz conmigo mismo. También disfruto ir al gimnasio para despejar la mente.
