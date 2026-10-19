@@ -1,7 +1,7 @@
 # Acta de Colaboración
 
 **Proyecto:** VeteriPet UdeA - Gestor de PQRS  
-**Integrantes:** Nayeli Vergara Mazo & Maximiliano González López  
+**Integrantes:** Nayeli Vergara Mazo y Maximiliano González López  
 
 ## 1. Canales de Comunicación y Frecuencia
 * **WhatsApp:** Canal oficial para coordinación operativa rápida, consultas diarias y seguimiento constante del proyecto.
