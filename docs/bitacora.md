@@ -1,7 +1,7 @@
 # Bitácora de Reuniones y Seguimiento
 
 **Proyecto:** VeteriPet UdeA - Gestor de PQRS  
-**Equipo Actual (2 integrantes):** Nayeli Vergara Mazo & Maximiliano González López  
+**Equipo Actual (2 integrantes):** Nayeli Vergara Mazo y Maximiliano González López  
 
 | Sesión # | Fecha | Asistentes | Modalidad | Temas Abordados y Acuerdos |
 | :---: | :---: | :---: | :---: | :--- |
