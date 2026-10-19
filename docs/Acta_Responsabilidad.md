@@ -17,5 +17,5 @@ Ambos integrantes declaramos conocer y comprender el 100% de los módulos y lín
 
 | Nombre Completo | Rol en el Proyecto | Firma |
 | :--- | :--- | :---: |
-| **Nayeli Vergara Mazo** | Líder de Proyecto & Gestión | ![Firma Nayeli](../images/firma_nayeli.png) |
-| **Maximiliano González López** | Desarrollador Principal & Lógica | ![Firma Maximiliano](../images/firma_maximiliano.png) |
+| **Nayeli Vergara Mazo** | Líder de Proyecto & Gestión | <img src="../images/Nayeli.png" width="120"> |
+| **Maximiliano González López** | Desarrollador Principal & Lógica | <img src="../images/Maximiliano.png" width="120"> |
