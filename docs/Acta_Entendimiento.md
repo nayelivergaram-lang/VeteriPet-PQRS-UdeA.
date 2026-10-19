@@ -3,7 +3,7 @@
 **Proyecto:** VeteriPet UdeA - Gestor de PQRS  
 **Asignatura:** Algoritmia y Programación (2026-2)  
 **Universidad:** Universidad de Antioquia - Facultad de Ingeniería  
-**Integrantes:** Nayeli Vergara Mazo & Maximiliano González López  
+**Integrantes:** Nayeli Vergara Mazo y Maximiliano González López  
 
 ## 1. Objetivo General
 Desarrollar un sistema de información en consola utilizando Python para gestionar, registrar, consultar y generar reportes estadísticos sobre las Peticiones, Quejas, Reclamos y Sugerencias (PQRS) del Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) en la Universidad de Antioquia.
