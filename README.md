@@ -24,6 +24,7 @@
 <p align="center">
   <img width="600" alt="Logo VeteriPet UdeA" src="images/logo_VeteriPet.jpg" />
 </p>
+
 <br>
 
 ## 4. Licencia del Software
