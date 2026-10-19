@@ -122,3 +122,16 @@ El presupuesto se liquida en tiempo de práctica de formación profesional, valo
 | **Generación de Radicado ASCII y Estadísticas (reportes.py)** | 10 hrs | 20 hrs | $8.338 | $166.760 |
 | **Manual de Usuario, Pruebas y Sustentación Final** | 5 hrs | 10 hrs | $8.338 | $83.380 |
 | **TOTAL GENERAL DEL PROYECTO** | **50 hrs** | **100 hrs** | **N/A** | **$833.800 COP** |
+
+### 8. Plan de Versionado y Control de Cambios
+
+Para garantizar un desarrollo ordenado y trazable del software **VeteriPet UdeA - Gestor de PQRS**, el equipo implementará el siguiente esquema de versionado semántico (`vX.Y.Z`):
+
+| Versión | Fecha Estimada | Entregable | Descripción de Cambios y Alcance |
+| :---: | :---: | :--- | :--- |
+| **v0.1.0** | 19/08/2026 | Propuesta Inicial | Estructuración inicial del repositorio y definición del alcance del proyecto (Entrega 1). |
+| **v0.2.0** | 12/10/2026 | Reestructuración de Equipo | Formalización de la transición a equipo de 2 integrantes, actualización de licencias, actas y carpeta `/docs`. |
+| **v1.0.0** | 26/10/2026 | Módulo de Entrada y Validación | Implementación de `validaciones.py` para la captura y verificación rigurosa de fechas, correos UdeA y prioridades. |
+| **v1.1.0** | 09/11/2026 | Persistencia en Archivos | Desarrollo de `archivos.py` para lectura/escritura de PQRS en archivos planos `.txt` de la carpeta `/data`. |
+| **v1.2.0** | 23/11/2026 | Módulo de Reportes Estadísticos | Implementación de `reportes.py` para el cálculo de estadísticas y generación de informes en consola. |
+| **v2.0.0** | 07/12/2026 | Producto Final (Entrega 2) | Integración total en `main.py`, comprobante ASCII, manuales terminados y versión estable para sustentación. |
