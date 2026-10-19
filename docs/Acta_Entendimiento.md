@@ -21,6 +21,6 @@ Ambos integrantes nos comprometemos a diseñar, programar, probar y revisar de m
 
 | Nombre Completo | Rol en el Proyecto | Firma |
 | :--- | :--- | :---: |
-| **Nayeli Vergara Mazo** | Líder de Proyecto & Gestión | ![Firma Nayeli](../images/firma_nayeli.png) |
-| **Maximiliano González López** | Desarrollador Principal & Lógica | ![Firma Maximiliano](../images/firma_maximiliano.png) |
+| **Nayeli Vergara Mazo** | Líder de Proyecto & Gestión | <img src="../images/Nayeli.png" width="120"> |
+| **Maximiliano González López** | Desarrollador Principal & Lógica | <img src="../images/Maximiliano.png" width="120"> |
 
