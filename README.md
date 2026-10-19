@@ -133,7 +133,7 @@ El presupuesto se liquida en tiempo de práctica de formación profesional, valo
 
 ## 8. Plan de Versionado y Control de Cambios
 
-Para garantizar un desarrollo ordenado y trazable del software **VeteriPet UdeA - Gestor de PQRS**, el equipo implementará el siguiente esquema de versionado semántico (`vX.Y.Z`):
+Para garantizar un desarrollo ordenado del software VeteriPet UdeA - Gestor de PQRS, el equipo implementará el siguiente plan de versionado y entregas:
 
 | Versión | Fecha Estimada | Entregable | Descripción de Cambios y Alcance |
 | :---: | :---: | :--- | :--- |
