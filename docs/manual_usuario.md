@@ -42,6 +42,7 @@ Para iniciar VeteriPet UdeA desde GitHUB, se puede acceder al código de dos man
 
 Al iniciar se presenta el siguiente menú:
 
+text
 ======================================================================
 VETERIPET-PQRS-UDEA
 ======================================================================
