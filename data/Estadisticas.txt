@@ -1,0 +1,24 @@
+ESTADÍSTICAS VETERIPET-PQRS-UDEA
+======================================================================
+
+Cantidad por tipo:
+{'Petición': 2, 'Queja': 2, 'Reclamo': 2, 'Sugerencia': 2}
+
+Cantidad por mascota:
+{'Gato': 4, 'Perro': 4}
+
+Cantidad por estado:
+{'Solucionada': 4, 'En proceso': 3, 'Registrada': 1}
+
+Promedio entero de días de respuesta:
+1
+
+PQRS próximas a vencer:
+0
+
+Cinco PQRS más antiguas:
+ID 1 | Petición | 2026-11-03 | Solucionada
+ID 1 | Queja | 2026-11-08 | En proceso
+ID 2 | Petición | 2026-11-12 | Solucionada
+ID 1 | Reclamo | 2026-11-15 | Solucionada
+ID 2 | Queja | 2026-11-18 | En proceso
