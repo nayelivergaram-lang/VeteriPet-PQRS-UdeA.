@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 1                                                                                                                |
+| Tipo: Sugerencia                                                                                                     |
+| Fecha de radicación: 2026-11-22 19:58:40                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-22                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Sebastián David Pérez Mora                                                                                   |
+| Documento: CC - 1000000004                                                                                           |
+| Teléfono: 3000000004 (Otro)                                                                                          |
+| Correo: sebastian.perez@example.com                                                                                  |
+| Dirección: Carrera 60 # 25-40                                                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Redes sociales                                                                                                |
+| Mascota: Gato                                                                                                        |
+| Campus: Campus Medellín - Edificio de Extensión                                                                      |
+| Asunto: Propuesta de jornadas de adopción                                                                            |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+

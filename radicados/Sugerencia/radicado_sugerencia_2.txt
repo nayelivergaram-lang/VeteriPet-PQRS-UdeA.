@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 2                                                                                                                |
+| Tipo: Sugerencia                                                                                                     |
+| Fecha de radicación: 2026-11-25 20:09:07                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-25                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Nicolás Alejandro Herrera Ruiz                                                                               |
+| Documento: CC - 1000000008                                                                                           |
+| Teléfono: 3000000008 (Celular)                                                                                       |
+| Correo: nicolas.herrera@example.com                                                                                  |
+| Dirección: Avenida 33 # 65-10                                                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Correo electrónico                                                                                            |
+| Mascota: Gato                                                                                                        |
+| Campus: Campus Medellín - Edificio de Extensión                                                                      |
+| Asunto: Mejorar difusión de servicios veterinarios                                                                   |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+
