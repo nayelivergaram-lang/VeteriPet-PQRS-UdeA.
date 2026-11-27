@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 2                                                                                                                |
+| Tipo: Queja                                                                                                          |
+| Fecha de radicación: 2026-11-18 20:06:33                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-18                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Juan Esteban Morales Ríos                                                                                    |
+| Documento: CC - 1000000006                                                                                           |
+| Teléfono: 3000000006 (Celular)                                                                                       |
+| Correo: juan.morales@example.com                                                                                     |
+| Dirección: Carrera 48 # 18-25                                                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Teléfono                                                                                                      |
+| Mascota: Perro                                                                                                       |
+| Campus: Campus Medellín - Sede de Posgrado                                                                           |
+| Asunto: Falta de información sobre atención                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+

@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 1                                                                                                                |
+| Tipo: Queja                                                                                                          |
+| Fecha de radicación: 2026-11-08 19:55:46                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-08                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Andrés Felipe Torres Díaz                                                                                    |
+| Documento: TI - 1102090890                                                                                           |
+| Teléfono: 3000000002 (Celular)                                                                                       |
+| Correo: andres.torres@example.com                                                                                    |
+| Dirección: Carrera 45 # 12-18                                                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Presencial                                                                                                    |
+| Mascota: Perro                                                                                                       |
+| Campus: Campus Medellín - Ciudadela Robledo                                                                          |
+| Asunto: Demora en atención veterinaria                                                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+
