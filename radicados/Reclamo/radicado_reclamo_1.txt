@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 1                                                                                                                |
+| Tipo: Reclamo                                                                                                        |
+| Fecha de radicación: 2026-11-15 19:57:13                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-15                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Daniela Sofía Ramírez López                                                                                  |
+| Documento: CC - 1098765443                                                                                           |
+| Teléfono: 3246678990 (Celular)                                                                                       |
+| Correo: daniela.ramirez@example.com                                                                                  |
+| Dirección: Calle 50 # 30-15                                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Correo electrónico                                                                                            |
+| Mascota: Perro                                                                                                       |
+| Campus: Campus en el Área de la salud                                                                                |
+| Asunto: Inconformidad con servicio recibido                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+

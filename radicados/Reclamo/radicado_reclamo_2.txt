@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 2                                                                                                                |
+| Tipo: Reclamo                                                                                                        |
+| Fecha de radicación: 2026-11-20 20:07:49                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-20                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Valentina Andrea Restrepo Gil                                                                                |
+| Documento: TI - 1000000007                                                                                           |
+| Teléfono: 3000000007 (Celular)                                                                                       |
+| Correo: valentina.restrepo@example.com                                                                               |
+| Dirección: N/A                                                                                                       |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Redes sociales                                                                                                |
+| Mascota: Perro                                                                                                       |
+| Campus: Campus en el Área de la salud                                                                                |
+| Asunto: Solicitud de revisión de procedimiento                                                                       |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+
