@@ -63,7 +63,7 @@ _reasignación de tareas, reporte al docente._
 
 | Nombre completo | Firma |
 |---|---|
-| _Nayeli Vergara Mazo_ |<img src="../imagenes/Nayeli.png" width="200"> |
+| _Nayeli Vergara Mazo_ |<img src="../imágenes/Nayeli.png" width="200"> |
 | _Luz Yadira Ramirez Rojasr_ |<img src="../imagenes/Yadira.png" width="200"> |
 | _Brianda Isabel Saenz Llorente_ | <img src="../imagenes/Brianda.png" width="200"> |
 | _Maximiliano González Lopez_ | <img src="../imagenes/Maximiliano.png" width="200">|
