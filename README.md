@@ -69,7 +69,7 @@ El sistema permite capturar los datos del usuario solicitante, la información d
 9. **Persistencia en Archivos Independientes:** El sistema debe almacenar de forma permanente los registros en 4 archivos de texto independientes según su tipo (Peticion.txt, Queja.txt, Reclamo.txt, Sugerencia.txt).
 10. **Consulta de Registros:** El sistema debe permitir consultar las PQRS activas y filtrar la información registrada para su seguimiento.
 11. **Impresión de Radicado ASCII:** El sistema debe imprimir o generar un comprobante/radicado en formato de texto ASCII delimitado con marco (+, -, |), centrado y con un ancho horizontal fijo de exactamente 120 caracteres.
-12. **Módulo de Estadísticas:** El sistema debe calcular y presentar 5 estadísticas clave de gestión, incluyendo de forma obligatoria el promedio en días enteros de tiempo de respuesta a las PQRS.
+12. **Módulo de Estadísticas:** El sistema generará seis estadísticas: el promedio de días de respuesta, que es obligatorio, y cinco estadísticas adicionales seleccionadas por el equipo para analizar la gestión de las PQRS.
 
 ### 6.2 Requisitos No Funcionales
 
@@ -109,8 +109,8 @@ El proyecto se distribuye a lo largo de las 16 semanas del semestre académico:
 | 4. Plan de Proyecto y Presupuesto (**Entrega 1 - Semana 8**) | | | | **X** | | | | |
 | 5. Desarrollo de POO (c_) y registro de PQRS | | | | | **X** | | | |
 | 6. Módulo de archivos planos (archivos.py) y consultas | | | | | | **X** | | |
-| 7. Comprobante ASCII (120 char) y estadísticas (reportes.py) | | | | | | | **X** | |
-| 8. Pruebas, Manual de Usuario y Sustentación (**Entrega 2 - Semana 16**) | | | | | | | | **X** |
+| 7. Comprobante ASCII (120 char) y estadísticas (reportes.py). Pruebas, Manual de Usuario | | | | | | | **X** | |
+| 8. **Entrega 2 - Semana 15** y sustentación | | | | | | | | **X** |
 
 ### 7.3 Presupuesto del Proyecto
 
@@ -142,4 +142,4 @@ Para garantizar un desarrollo ordenado del software VeteriPet UdeA - Gestor de P
 | **v1.0.0** | 26/10/2026 | Módulo de Entrada y Validación | Implementación de `validaciones.py` para la captura y verificación rigurosa de fechas, correos UdeA y prioridades. |
 | **v1.1.0** | 09/11/2026 | Persistencia en Archivos | Desarrollo de `archivos.py` para lectura/escritura de PQRS en archivos planos `.txt` de la carpeta `/data`. |
 | **v1.2.0** | 23/11/2026 | Módulo de Reportes Estadísticos | Implementación de `reportes.py` para el cálculo de estadísticas y generación de informes en consola. |
-| **v2.0.0** | 07/12/2026 | Producto Final (Entrega 2) | Integración total en `main.py`, comprobante ASCII, manuales terminados y versión estable para sustentación. |
+| **v2.0.0** | 27/11/2026 | Producto Final (Entrega 2) | Integración total en `main.py`, comprobante ASCII, manuales terminados y versión estable para sustentación. |
