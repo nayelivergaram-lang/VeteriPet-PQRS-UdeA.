@@ -112,6 +112,8 @@ El proyecto se distribuye a lo largo de las 16 semanas del semestre académico:
 | 7. Comprobante ASCII (120 char) y estadísticas (reportes.py). Pruebas, Manual de Usuario | | | | | | | **X** | |
 | 8. **Entrega 2 - Semana 15** y sustentación | | | | | | | | **X** |
 
+![Diagrama de Gantt](images/Diagrama_Gantt_VeteriPet.png)
+
 ### 7.3 Presupuesto del Proyecto
 
 El presupuesto se liquida en tiempo de práctica de formación profesional, valorado a la tarifa de 1 Salario Mínimo Legal Vigente (SMLV 2026).
