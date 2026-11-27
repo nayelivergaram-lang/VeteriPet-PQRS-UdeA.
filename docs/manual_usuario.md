@@ -3,7 +3,7 @@
 
 ### 1. Introducción 
 
-VeteriPet UdeA es un sistema desarrollado para gestionar las peticiones, quejas, reclamos, sugerencias (PQRS) relacionadas con los servicios veterinarios dirigidos a perros y gatos en la Universidad de Antioquia. Su propósito es facilitar el registro, consulta y seguimiento e las solicitudes, además de generar reportes estadísticos que permitan conocer su comportamiento.
+VeteriPet UdeA es un sistema desarrollado para gestionar las peticiones, quejas, reclamos, sugerencias (PQRS) relacionadas con los servicios veterinarios dirigidos a perros y gatos en la Universidad de Antioquia. Su propósito es facilitar el registro, consulta y seguimiento de las solicitudes, además de generar reportes estadísticos que permitan conocer su comportamiento.
 
 Este manual tiene como finalidad orientar al usuario en el manejo del sistema, explicando como ejecutarlo y utilizar cada una de las opciones disponibles en el menú principal.
 
@@ -20,9 +20,9 @@ Para ejecutar VeteriPet UdeA se necesita:
 
 Para iniciar VeteriPet UdeA desde GitHUB, se puede acceder al código de dos maneras:
 
-**Opcion 1. Abrir directamente en Gogle Colab**
+**Opcion 1. Abrir directamente en Google Colab**
 
-1. Ingresar al repositOrio de VeteriPet UdeA en GitHUb.
+1. Ingresar al repositOrio de VeteriPet UdeA en GitHub.
 2. Buscar el archivo del proyecto que contiene el código fuente. (*Abrir codigo_VETERIPET_UDEA_en colab.py*).
 3. Abrir el archivo y seleccionar el botón **Open in Colab (Abrir en Colab).**
 4. Esperar a que Google Colab abra el archivo.
@@ -30,10 +30,10 @@ Para iniciar VeteriPet UdeA desde GitHUB, se puede acceder al código de dos man
 
 **Opción 2. Descargar el archivo y abrirlo en Google Colab.**
 
-1. Ingresar al repositOrio de VeteriPet UdeA en GitHUb.
+1. Ingresar al repositOrio de VeteriPet UdeA en GitHub.
 2. Buscar el archivo del proyecto y descargarlo.(*Abrir codigo_VETERIPET_UDEA_en colab.py*).
 3. Ingresar a Google Colab.
-4. Seleccionar la opción para subir un archivo y cargar el archivo descragado.
+4. Seleccionar la opción para subir un archivo y cargar el archivo descargado.
 5. Abrirlo y ejecutar la celda que tiene el código completo del proyecto.
 
 **Importante:** En cualquiera de las dos opciones, al ejecutar el código, el programa genera automáticamente las carpetas, los módulos y los archivos necesarios. Una vez finaliza este proceso, se inicia el menú principal de VeteriPet UdeA.
