@@ -62,10 +62,10 @@ _reasignación de tareas, reporte al docente._
 ## 9. Asistentes
 
 | Nombre completo | Firma |
-|---|---|<img src="../images/Nayeli.png" width="120"> 
+|---|---|
 | _Nayeli Vergara Mazo_ |<img src="../images/Nayeli.png" width="200"> |
-| _Luz Yadira Ramirez Rojasr_ |<img src="../imagenes/Yadira.png" width="200"> |
-| _Brianda Isabel Saenz Llorente_ | <img src="../imagenes/Brianda.png" width="200"> |
-| _Maximiliano González Lopez_ | <img src="../imagenes/Maximiliano.png" width="200">|
-| _Aura Jhosceline Hurtado Botero_ | <img src="../imagenes/Aura Hurtado.png" width="200"> |
+| _Luz Yadira Ramirez Rojasr_ |<img src="../images/Yadira.png" width="200"> |
+| _Brianda Isabel Saenz Llorente_ | <img src="../images/Brianda.png" width="200"> |
+| _Maximiliano González Lopez_ | <img src="../images/Maximiliano.png" width="200">|
+| _Aura Jhosceline Hurtado Botero_ | <img src="../images/Aura Hurtado.png" width="200"> |
 
