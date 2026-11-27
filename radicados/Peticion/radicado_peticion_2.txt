@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 2                                                                                                                |
+| Tipo: Petición                                                                                                       |
+| Fecha de radicación: 2026-11-12 20:04:50                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-12                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Mariana Isabel Castro Vélez                                                                                  |
+| Documento: CC - 1234456778                                                                                           |
+| Teléfono: 3009876543 (Celular)                                                                                       |
+| Correo: mariana.castro@example.com                                                                                   |
+| Dirección: Calle 35 # 40-20                                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Correo electrónico                                                                                            |
+| Mascota: Gato                                                                                                        |
+| Campus: Campus Medellín - Ciudadela Robledo                                                                          |
+| Asunto: Información sobre esterilización                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+

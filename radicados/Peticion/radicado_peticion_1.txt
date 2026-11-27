@@ -1,0 +1,27 @@
++----------------------------------------------------------------------------------------------------------------------+
+|                                                 VETERIPET-PQRS-UDEA                                                  |
+|                                              COMPROBANTE DE RADICACIÓN                                               |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                  DATOS DEL RADICADO                                                  |
+| ID: 1                                                                                                                |
+| Tipo: Petición                                                                                                       |
+| Fecha de radicación: 2026-11-03 19:54:05                                                                             |
+| Estado: Registrada                                                                                                   |
+| Fecha máxima: 2026-12-03                                                                                             |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                DATOS DEL SOLICITANTE                                                 |
+| Nombre: Laura Marcela Gómez Ruiz                                                                                     |
+| Documento: CC - 1000000001                                                                                           |
+| Teléfono: 3000000001 (Celular)                                                                                       |
+| Correo: laura.gomez@example.com                                                                                      |
+| Dirección: Calle 10 # 20-30                                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
+|                                                    CLASIFICACIÓN                                                     |
+| Canal: Página web                                                                                                    |
+| Mascota: Gato                                                                                                        |
+| Campus: Campus Medellín - Ciudad Universitaria                                                                       |
+| Asunto: Solicitud de jornada de vacunación                                                                           |
++----------------------------------------------------------------------------------------------------------------------+
+|                               Descripción detallada almacenada en el archivo de datos.                               |
+|                                                 VeteriPet-PQRS-Udea                                                  |
++----------------------------------------------------------------------------------------------------------------------+
